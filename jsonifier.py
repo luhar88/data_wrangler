@@ -267,7 +267,7 @@ def main():
     else:
         print "Error: Please enter the data file path"
         print "Usage: "
-        print ">python jsonifier.py back_end_rolodex/data.in"
+        print ">python jsonifier.py data/data.in"
 
 
 if __name__ == '__main__':
